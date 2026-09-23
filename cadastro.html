@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LARICA BURGER | Cadastro de Cliente</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">LARICA BURGER</div>
+        <nav class="nav-links">
+            <a href="index.html">Início</a>
+            <a href="dashboard.html">Dashboard</a>
+            <div class="dropdown">
+                <a href="#" class="dropbtn">Combos</a>
+                <div class="dropdown-content">
+                    <a href="produtos_clas.html">Clássicos</a>
+                    <a href="produtos_veg.html">Vegetarianos</a>
+                    <a href="produtos_acomp.html">Acompanhamentos</a>
+                </div>
+            </div>
+            <a href="sobre.html">Sobre Nós</a>
+            <a href="contato.html">Contatos</a>
+            <a href="login.html" class="btn-login">Login</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="form-container">
+            <h2>Cadastro de Cliente</h2>
+
+            <form action="login.html" method="POST">
+                <label for="nome">Nome Completo</label>
+                <input type="text" id="nome" name="nome" maxlength="250" required>
+
+                <label for="telefone">Telefone</label>
+                <input type="tel" id="telefone" name="telefone" placeholder="(81) 99999-9999" maxlength="11">
+
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" maxlength="100" required>
+
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" name="senha" required>
+
+                <button class="btn btn-enviar" type="submit">Cadastrar</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p><strong>Atendimento de Terça a Domingo, das 18h às 23h30.</strong></p>
+        <p><strong>Endereço:</strong> Av. Rio Branco, 193 - Bairro do Recife (Recife Antigo)</p>
+        <p><strong>Cidade / Estado:</strong> Recife - PE - <strong>CEP:</strong> 50030-320</p>
+        <p><strong>Telefone:</strong> (81) 99658-5753</p>  
+    </footer>
+</body>
+</html>
