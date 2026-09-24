@@ -9,7 +9,6 @@ O **Larica Burguer** é uma aplicação web desenvolvida para modernizar o atend
 ## Funcionalidades
 
 - **Cardápio Digital:** Visualização detalhada de hambúrgueres, acompanhamentos, bebidas e combos.
-- **Responsividade Total:** Interface adaptada para smartphones, tablets e computadores.
 - **Interface Intuitiva:** Layout limpo e focado na conversão visual dos produtos.
 
 ---
@@ -18,10 +17,8 @@ O **Larica Burguer** é uma aplicação web desenvolvida para modernizar o atend
 
 As seguintes ferramentas e tecnologias foram utilizadas na construção do projeto:
 
-- [HTML5](https://mozilla.org) - Estruturação da página.
-- [CSS3](https://mozilla.org) - Estilização e layout responsivo.
-- [JavaScript](https://mozilla.org) - Dinamismo e interações da interface.
-- [Git](https://git-scm.com) & [GitHub](https://github.com/) - Versionamento de código.
+- [HTML5] - Estruturação da página.
+- [CSS3] - Estilização e layout.
 
 ---
 
@@ -58,6 +55,7 @@ Desenvolvido por **Jefferson Freitas**.
 
 ## Licença
 
-- Este projeto está sob a licença MIT. 
+- Este projeto está sob a licença MIT.
+  
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes (caso aplicável).
