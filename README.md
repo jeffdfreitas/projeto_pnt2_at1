@@ -55,7 +55,4 @@ Desenvolvido por **Jefferson Freitas**.
 
 ## Licença
 
-- Este projeto está sob a licença MIT.
-  
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes (caso aplicável).
+- Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes (caso aplicável).
