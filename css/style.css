@@ -154,7 +154,7 @@ main {
 }
 
 .card:hover {
-    transform: translateY(-8px);
+    transform: translateY(-1px);
     border-color: #ffb703;
 }
 
